@@ -55,6 +55,23 @@
         "location": "Tulsa, OK", 
         "email": "abigail-labounty@utulsa.edu"
       }
+    },
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -95.9436, 
+          36.1529
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "web": "", 
+        "name": "Matthew Hruz", 
+        "twitter": "",
+        "location": "Tulsa, OK", 
+        "email": "matthew.hruz@gmail.com"
+      }
     }
   ]
 }
